@@ -1,4 +1,5 @@
-import './HelpBox.css';
+/* eslint react/prop-types: 0 */
+import "./HelpBox.css";
 
 function HelpBox({ title, text }) {
   return (
